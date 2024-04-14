@@ -13,6 +13,6 @@ I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bach
 
 ## I'm currently learning 🌱
 
-I'm taking a refresher course from Udemy on React and below is the repository of the small projects I made with the help of the course:
+I'm taking a refresher course from Udemy on Advanced React and below is the repository of the small projects I made for practice:
 
 https://github.com/Akanshaa18/ReactCourseUdemy
