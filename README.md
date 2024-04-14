@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Akanshaa18/Akanshaa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bachelor's degree in Computer Science & Engineering. 
 
-Here are some ideas to get you started:
+## Technologies and Tools 🛠️
+- Java & Spring Boot
+- Javascript
+- React
+- C# & ASP.Net
+- C++
+- Git
+- Node js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently learning 🌱
+
+I'm taking a refresher course from Udemy on React and below is the repository of the small projects I made:
+
+https://github.com/Akanshaa18/ReactCourseUdemy
