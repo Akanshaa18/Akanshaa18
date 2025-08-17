@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bachelor's degree in Computer Science & Engineering. 
+I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bachelor's degree in Computer Science & Engineering and currently pursuing my Master's in Statistics.
 
 ## Technologies and Tools 🛠️
-- Java & Spring Boot
+- Python
 - Javascript
 - React
 - C# & ASP.Net
@@ -13,6 +13,4 @@ I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bach
 
 ## I'm currently learning 🌱
 
-I'm taking a refresher course from Udemy on Advanced React and below is the repository of the small projects I made for practice:
-
-https://github.com/Akanshaa18/ReactCourseUdemy
+I'm taking a course on Machine Learning
