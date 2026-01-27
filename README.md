@@ -11,6 +11,3 @@ I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bach
 - Git
 - Node js
 
-## I'm currently learning 🌱
-
-I am a Master's Student in Statistics at UC Berkeley!
