@@ -13,4 +13,4 @@ I'm Akanshaa Borgohain, a Software Engineer from Bengaluru, India. I hold a Bach
 
 ## I'm currently learning 🌱
 
-I'm taking a course on Machine Learning
+I am a Master's Student in Statistics at UC Berkeley!
