@@ -24,3 +24,4 @@ I enjoy working across the stack, from building reliable backend systems to appl
 | Fama-French Factor Model Analysis | Python, statsmodels, pandas, yfinance, LaTeX | [Repo](https://github.com/Akanshaa18/fama-french-regression) |
 | Cloud Detection — NASA MISR Satellite Data | Python, PyTorch, scikit-learn | Private Repo |
 | Credit Card Benefits & Points Tracker | Java, Spring Boot, React, CI/CD, Git | Private Repo |
+| Pomodoro Timer App | React, Vite, Electron | [Repo](https://github.com/Akanshaa18/pomodoro-electron-app) |
