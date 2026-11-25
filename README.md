@@ -22,6 +22,7 @@ I enjoy working across the stack, from building reliable backend systems to appl
 |---|---|---|
 | Volatility Regime Detection | Python, PyTorch, GARCH, FRED API, Time Series Analysis | [Repo](https://github.com/Akanshaa18/volatility-regime) |
 | Fama-French Factor Model Analysis | Python, statsmodels, pandas, yfinance, LaTeX | [Repo](https://github.com/Akanshaa18/fama-french-regression) |
+| Monte Carlo Risk Engine | C++20, Python, pybind11, NumPy, pandas, SciPy | [Repo](https://github.com/Akanshaa18/mc_risk_engine) |
+| Pomodoro Timer App | React, Vite, Electron | [Repo](https://github.com/Akanshaa18/pomodoro-electron-app) |
 | Cloud Detection — NASA MISR Satellite Data | Python, PyTorch, scikit-learn | Private Repo |
 | Credit Card Benefits & Points Tracker | Java, Spring Boot, React, CI/CD, Git | Private Repo |
-| Pomodoro Timer App | React, Vite, Electron | [Repo](https://github.com/Akanshaa18/pomodoro-electron-app) |
